@@ -1,15 +1,15 @@
 # PylarAI Workstation
 PylarPC aka Workstation setup specs
 
-The i5 13600K includes gpu, to allow the usage of the RTX 4070 for AI & ML.
-Cooling liquid is choosen to maximize the performance of the CPU.
-32 GB of RAM is a base minimum for AI & ML, due to the latest advances in the field.
-The motherboard is a base model with no WiFi or Bluetooth, as it is not needed for a workstation.
-The PSU is a 1000W 80 Plus Gold Modular, to allow for future upgrades.
-The case is an ATX tower with a tempered glass side panel, to allow for easy access to the components.
-The SSDs are a 1TB PCIe Gen4 NVMe and a 1TB NVMe M.2, to perform for a fast boot and data storage.
-The OS is Windows 11 Pro, as it is the latest version of Windows.
-The monitor is a 4K 60Hz 32" IPS, to allow for a good visual experience.
+ - The i5 13600K includes gpu, to allow the usage of the RTX 4070 for AI & ML.
+ - Cooling liquid is choosen to maximize the performance of the CPU.
+ - 32 GB of RAM is a base minimum for AI & ML, due to the latest advances in the field.
+ - The motherboard is a base model with no WiFi or Bluetooth, as it is not needed for a workstation.
+ - The PSU is a 1000W 80 Plus Gold Modular, to allow for future upgrades.
+ - The case is an ATX tower with a tempered glass side panel, to allow for easy access to the components.
+ - The SSDs are a 1TB PCIe Gen4 NVMe and a 1TB NVMe M.2, to perform for a fast boot and data storage.
+ - The OS is Windows 11 Pro, as it is the latest version of Windows.
+ - The monitor is a 4K 60Hz 32" IPS, to allow for a good visual experience.
 
 Component | Price | Quantity
 --- | --- | ---
