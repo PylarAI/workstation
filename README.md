@@ -26,3 +26,22 @@ Samsung 970 EVO Plus 1TB SSD NVMe M.2 | 52.00 € | x1
 Total: 1,784.73 € of setup.
 
 This is a setup for an AI & ML Pro Workstation with a budget of 1,790.00 €.
+
+[!info]
+(Extras fuera de presupuesto, falta poner bien los precios de los extra)
+
+## Extras
+
+### PylarNAS
+Synology SM723+ | ~554.00 € | x1
+WD 8TB Red Pro | ~300.00 € | x1
+Samsung 970 EVO Plus 2TB SSD NVMe M.2  | ~110.00 € | x1
+x16 (32) gb Ram corsaire mini | ~54.00 € | x2
+
+### PylarPi
+Raspberry Pi 4 | ~114.00 € | x1
+Mini disiapdores Pi 4 | ~3.00 € | x3
+Ventilador Pi 4 | ~8.00 € | x1
+Unibody Pi 4 | ~14.00 € | x1
+
+
