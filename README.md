@@ -28,7 +28,7 @@ Total: 1,784.73 € of setup.
 This is a setup for an AI & ML Pro Workstation with a budget of 1,790.00 €.
 
 > [!NOTE]
-> (Extras fuera de presupuesto, falta poner bien los precios de los extra)
+> Prices on the Extra section needs to update, aprox.
 
 ## Extras
 
