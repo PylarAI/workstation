@@ -1,6 +1,9 @@
 # PylarAI Workstation
 
-![PylarLogo](https://github.com/PylarAI/workstation/assets/5947268/e2666276-8e2d-4d8b-8d71-93405327f2fd)
+<p align="center">
+  <img src="https://github.com/PylarAI/workstation/assets/5947268/e2666276-8e2d-4d8b-8d71-93405327f2fd" alt="PylarLogo" width="200"/>
+  <img src="https://github.com/PylarAI/workstation/assets/5947268/46bf330a-9e43-4c4e-b10f-d2c7f2ad5172" alt="hf-logo" width="200"/>
+</p>
 
 PylarPC aka Workstation setup specs
 
