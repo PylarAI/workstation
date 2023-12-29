@@ -1,4 +1,7 @@
 # PylarAI Workstation
+
+![PylarLogo](https://github.com/PylarAI/workstation/assets/5947268/e2666276-8e2d-4d8b-8d71-93405327f2fd)
+
 PylarPC aka Workstation setup specs
 
  - The i5 13600K includes gpu, to allow the usage of the RTX 4070 for AI & ML.
