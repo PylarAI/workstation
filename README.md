@@ -12,9 +12,9 @@ PylarPC aka Workstation setup specs
  - The OS is Windows 11 Pro, as it is the latest version of Windows.
  - The monitor is a 4K 60Hz 32" IPS, to allow for a good visual experience.
 
-Component | Price | Quantity
---- | --- | ---
-ASUS Dual GeForce RTX 4070 OC Edition 12GB GDDR6X DLSS3 | 659.90 € | x1
+Component | Price | Quantity | Buy Now |
+--- | --- | --- | --- |
+ASUS Dual GeForce RTX 4070 OC Edition 12GB GDDR6X DLSS3 | 659.90 € | x1 | [Under $530 Now!](https://amzn.to/3wlQ90a) |
 Intel Core i5-13600K 3.5 GHz Box | 342.99 € | x1
 Corsair RMe Series RM1000e 1000W 80 Plus Gold Modular | 187.90 € | x1
 ASUS PRIME B760-PLUS | 141.99 € | x1
