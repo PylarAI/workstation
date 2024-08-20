@@ -14,7 +14,7 @@ PylarPC aka Workstation setup specs
 
 Component | Price | Quantity | Buy Now |
 --- | --- | --- | --- |
-ASUS Dual GeForce RTX 4070 OC Edition **12GB** GDDR6X DLSS3 | 659.90 € | x1 | [Under $530 Now!](https://amzn.to/3wlQ90a) |
+ASUS Dual GeForce RTX 4070 OC Edition **12GB** GDDR6X DLSS3 | 659.90 € | x1 | |
 Intel Core i5-13600K 3.5 GHz Box | 342.99 € | x1
 Corsair RMe Series RM1000e 1000W 80 Plus Gold Modular | 187.90 € | x1
 ASUS PRIME B760-PLUS | 141.99 € | x1
