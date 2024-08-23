@@ -2,7 +2,7 @@
 
 PylarPC aka Workstation setup specs
 
- - WinPylarOS, Runs on a Private Internal Business Windows 11 Pro Distribution.
+ - WinPylarOS, Runs on a Private Internal Business Windows 11 Pro Distribution. (No telemetry...)
  - The i5 13600K includes gpu, to allow the usage of the RTX 4070 for AI & ML.
  - Cooling liquid is choosen to maximize the performance of the CPU.
  - 32 GB of RAM is a base minimum for AI & ML, due to the latest advances in the field.
