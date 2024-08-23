@@ -23,6 +23,7 @@ Tempest Liquid Cooler RGB 240mm Black | 84.99 € | x1
 MSI MAG Forge 100M Template Crystal USB 3.2 RGB Black | 58.99 € | x1
 WD BLACK SN770 1TB SSD PCIe Gen4 NVMe | 57.98 € | x1
 Samsung 970 EVO Plus 1TB SSD NVMe M.2 | 52.00 € | x1
+PylarWin, Windows 11 Pro OpenSource customized | 0 € | x1
 
 Total: 1,784.73 € of setup.
 
