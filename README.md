@@ -2,6 +2,7 @@
 
 PylarPC aka Workstation setup specs
 
+ - WinPylarOS, Runs on a Private Internal Business Windows 11 Pro Distribution.
  - The i5 13600K includes gpu, to allow the usage of the RTX 4070 for AI & ML.
  - Cooling liquid is choosen to maximize the performance of the CPU.
  - 32 GB of RAM is a base minimum for AI & ML, due to the latest advances in the field.
@@ -23,7 +24,6 @@ Tempest Liquid Cooler RGB 240mm Black | 84.99 € | x1
 MSI MAG Forge 100M Template Crystal USB 3.2 RGB Black | 58.99 € | x1
 WD BLACK SN770 1TB SSD PCIe Gen4 NVMe | 57.98 € | x1
 Samsung 970 EVO Plus 1TB SSD NVMe M.2 | 52.00 € | x1
-PylarWin, Windows 11 Pro OpenSource (internal) | 0 € | x1
 
 Total: 1,784.73 € of setup.
 
