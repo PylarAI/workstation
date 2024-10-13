@@ -1,5 +1,7 @@
 # PylarAI Workstation
 
+Specs for AI and ML: `Total VRAM 12282 MB, total RAM 32509 MB`
+
 PylarPC aka Workstation setup specs
 
  - WinPylarOS, Runs on a Private Internal Business Windows 11 Pro Distribution. (No telemetry...)
