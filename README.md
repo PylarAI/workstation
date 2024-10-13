@@ -1,6 +1,6 @@
 # PylarAI Workstation
 
-Specs for AI and ML: `Total VRAM 12282 MB, total RAM 32509 MB`
+Specs for AI and ML: `Total VRAM 12282 MB, total RAM 32509 MB` and `NVIDIA GeForce RTX 4070`
 
 PylarPC aka Workstation setup specs
 
